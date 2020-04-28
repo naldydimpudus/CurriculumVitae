@@ -121,33 +121,6 @@ header {
   padding-bottom: 20px;
 }
 
-/* Contact */
-.contact-form {
-  margin: 20px 80px;
-
-}
-.contact-form-input {
-  padding: 0 100px;
-}
-
-input, textarea {
-  font-family: sans-serif;
-  width: 100%;
-  margin-bottom: 10px;
-  padding: 10px;
-  font-size: 18px;
-  background-color: #eeeeee;
-  border: 0;
-  text-align: center;
-}
-
-.submit-input {
-  font-size: 18px;
-  color: white;
-  background-color: rgba(34, 49, 52, 0.9);
-  width: 699px;
-}
-
 /* Footer */
 footer {
   height: 128px;
